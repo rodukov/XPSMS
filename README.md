@@ -51,7 +51,7 @@ python xpsms.py -p +7 -a +77777777777 --call --sms --undetected
 python xpsms.py -p +7 -a +77777777777 --sms
 ```
 
-<h2> Active phone calls services <img alt="XPSMS" src="./src/assets/phonecalls.png" width="22px"/> </h2>
+<h2> Active phone calls services <img alt="XPSMS" src="./src/assets/phonecall.png" width="22px"/> </h2>
 <div align="left">
 <p>
   <img alt="XPSMS" src="./src/assets/phonecallsbadge.png" width="420px"/>
