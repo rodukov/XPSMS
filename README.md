@@ -1,15 +1,15 @@
 <div align="center">
 <p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Geckodriver-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-  <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img alt="geckodriver" src="https://img.shields.io/badge/Geckodriver-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+  <img alt="chromium" src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 </p>
 </div>
 <div align="center">
 <p>
   <img alt="XPSMS" src="./src/assets/xpsms32x.png" width="420px"/>
-  <img alt="XPSMS" src="./src/assets/disclaimer.png" width="420px"/>
+  <img alt="DISCLAIMER" src="./src/assets/disclaimer.png" width="420px"/>
 </p>
 </div>
 
@@ -50,3 +50,17 @@ python xpsms.py -p +7 -a +77777777777 --call --sms --undetected
 ```python
 python xpsms.py -p +7 -a +77777777777 --sms
 ```
+
+<h2> Active SMS services <img alt="XPSMS" src="./src/assets/smsreceive.png" width="22px"/> </h2>
+<div align="left">
+<p>
+  <img alt="XPSMS" src="./src/assets/smsreceivebadge.png" width="420px"/>
+</p>
+</div>
+
+| Service | Label | URL |
+| ------- | ----- | --- |
+| viber | <div align="center"><img src="https://img.shields.io/badge/viber-%23000000.svg?style=for-the-badge&logo=viber&logoColor=white"></div> | https://www.viber.com/en/ |
+| yandex | <div align="center"><img src="https://img.shields.io/badge/Yandex-%23000000.svg?&style=for-the-badge&logo=yandex&logoColor=white"></div> | https://yandex.com/ |
+| ok | <div align="center"><img src="https://img.shields.io/badge/odnoklassniki-%23000000.svg?&style=for-the-badge&logo=ok&logoColor=white"></div> | https://ok.ru/ |
+| wildberries | <div align="center"><img src="https://img.shields.io/badge/wildberries-%23000000.svg?&style=for-the-badge&logo=wildberries-&logoColor=white"></div> | https://www.wildberries.ru/ |
