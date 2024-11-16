@@ -51,6 +51,18 @@ python xpsms.py -p +7 -a +77777777777 --call --sms --undetected
 python xpsms.py -p +7 -a +77777777777 --sms
 ```
 
+<h2> Active phone calls services <img alt="XPSMS" src="./src/assets/phonecalls.png" width="22px"/> </h2>
+<div align="left">
+<p>
+  <img alt="XPSMS" src="./src/assets/phonecallsbadge.png" width="420px"/>
+</p>
+</div>
+
+| Service | Label | URL |
+| ------- | ----- | --- |
+| VK | <div align="center"><img src="https://img.shields.io/badge/vk-%23000000.svg?style=for-the-badge&logo=vk&logoColor=white"></div> | https://vk.com/ |
+| Ozon | <div align="center"><img src="https://img.shields.io/badge/ozon-%23000000.svg?&style=for-the-badge&logo=ozon&logoColor=white"></div> | https://ozon.ru/ |
+
 <h2> Active SMS services <img alt="XPSMS" src="./src/assets/smsreceive.png" width="22px"/> </h2>
 <div align="left">
 <p>
@@ -60,7 +72,7 @@ python xpsms.py -p +7 -a +77777777777 --sms
 
 | Service | Label | URL |
 | ------- | ----- | --- |
-| viber | <div align="center"><img src="https://img.shields.io/badge/viber-%23000000.svg?style=for-the-badge&logo=viber&logoColor=white"></div> | https://www.viber.com/en/ |
-| yandex | <div align="center"><img src="https://img.shields.io/badge/Yandex-%23000000.svg?&style=for-the-badge&logo=yandex&logoColor=white"></div> | https://yandex.com/ |
-| ok | <div align="center"><img src="https://img.shields.io/badge/odnoklassniki-%23000000.svg?&style=for-the-badge&logo=ok&logoColor=white"></div> | https://ok.ru/ |
-| wildberries | <div align="center"><img src="https://img.shields.io/badge/wildberries-%23000000.svg?&style=for-the-badge&logo=wildberries-&logoColor=white"></div> | https://www.wildberries.ru/ |
+| Viber | <div align="center"><img src="https://img.shields.io/badge/viber-%23000000.svg?style=for-the-badge&logo=viber&logoColor=white"></div> | https://www.viber.com/en/ |
+| Yandex | <div align="center"><img src="https://img.shields.io/badge/Yandex-%23000000.svg?&style=for-the-badge&logo=yandex&logoColor=white"></div> | https://yandex.com/ |
+| OK | <div align="center"><img src="https://img.shields.io/badge/odnoklassniki-%23000000.svg?&style=for-the-badge&logo=ok&logoColor=white"></div> | https://ok.ru/ |
+| Wildberries | <div align="center"><img src="https://img.shields.io/badge/wildberries-%23000000.svg?&style=for-the-badge&logo=wildberries-&logoColor=white"></div> | https://www.wildberries.ru/ |
