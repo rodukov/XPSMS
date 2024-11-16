@@ -26,10 +26,9 @@ def inject(driver):
     """Runs all available services one by one"""
     if call:
         vk(driver, aim, code)
-        try:
-            ozon(driver, aim, code)
-        except:
-            ...
+
+        ozon(driver, aim, code)
+
     if sms:
         viber(driver, aim, code)
         yandex(driver, aim, code)
