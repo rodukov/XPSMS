@@ -8,8 +8,8 @@
 </div>
 <div align="center">
 <p>
-  <img alt="XPSMS" src="./src/assets/xpsms32x.png" width="340px"/>
-  <img alt="XPSMS" src="./src/assets/disclaimer.png" width="340px"/>
+  <img alt="XPSMS" src="./src/assets/xpsms32x.png" width="420px"/>
+  <img alt="XPSMS" src="./src/assets/disclaimer.png" width="420px"/>
 </p>
 </div>
 
