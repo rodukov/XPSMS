@@ -1,0 +1,16 @@
+  File .py:198:SB
+--------------------------------------------------------------------
+Last Page: chrome://new-tab-page/
+ Duration: 0.01s
+  Browser: Chrome 130.0.6723.117
+   Driver: chromedriver 130.0.6723.116
+Timestamp: 1731770842  (Unix Timestamp)
+     Date: Saturday, 16 November 2024
+     Time: 6:27:22 PM  (Russia TZ 2 Standard Time, UTC+03:00)
+--------------------------------------------------------------------
+Traceback:
+  Traceback (most recent call last):
+  File "<python-input-4>", line 2, in <module>
+    driver.get("https://google.com/")
+    ^^^^^^
+NameError: name 'driver' is not defined
