@@ -12,8 +12,13 @@
   <img alt="DISCLAIMER" src="./src/assets/disclaimer.png" width="420px"/>
 </p>
 </div>
-
+      
 XPSMS uses automation of browser engines Selenium under Python control to send requests for password recovery/registration, as a result of which the Target receives SMS messages or phone calls.
+
+<div>
+  <img alt="Latest release" src="https://img.shields.io/github/v/release/rodukov/XPSMS" />
+  <img src="https://img.shields.io/github/license/rodukov/XPSMS?style=flat-square&logo=GNU&label=License" alt="License"/>
+</div>
 
 ## Basic usage
 
