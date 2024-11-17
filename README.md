@@ -78,3 +78,26 @@ python xpsms.py -p +7 -a +77777777777 --sms
 | Yandex | <div align="center"><img src="https://img.shields.io/badge/Yandex-%23000000.svg?&style=for-the-badge&logo=yandex&logoColor=white"></div> | https://yandex.com/ |
 | OK | <div align="center"><img src="https://img.shields.io/badge/odnoklassniki-%23000000.svg?&style=for-the-badge&logo=ok&logoColor=white"></div> | https://ok.ru/ |
 | Wildberries | <div align="center"><img src="https://img.shields.io/badge/wildberries-%23000000.svg?&style=for-the-badge&logo=wildberries-&logoColor=white"></div> | https://www.wildberries.ru/ |
+
+<h2> XPSMS Advanced Documentation <img alt="XPSMS" src="./src/assets/control.png" width="22px"/> </h2>
+<div align="left">
+<p>
+  <img alt="XPSMS" src="./src/assets/docsbadge.png" width="420px"/>
+</p>
+</div>
+
+### Architecture
+
+| PATH | Description |
+| ------- | ----- |
+| `xpsms.py` | Main startup file |
+| `requiremets.txt` | PIP dependency setup file |
+| `README.md` | Main documentation file in English |
+| `LICENSE` | File with license terms <b> GPL-3.0 license </b> 
+| `.gitignore` | List of files that will not be used in git |
+| `chromedriver.exe` | Not used. Chromium driver windows binary file |
+| `src/assets/*` | Pictures for `README.md` |
+| `src/services/*` | Control files for the driver. Each file name corresponds to its own service. |
+
+
+
