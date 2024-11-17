@@ -13,6 +13,8 @@
 </p>
 </div>
 
+XPSMS uses automation of browser engines Selenium under Python control to send requests for password recovery/registration, as a result of which the Target receives SMS messages or phone calls.
+
 ## Basic usage
 
 ### Installation
